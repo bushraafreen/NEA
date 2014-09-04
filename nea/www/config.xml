@@ -2,10 +2,10 @@
 <widget id="com.silversages.fahmedeen" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>NEA</name>
     <description>
-        Fahm-e-Deen Online Bayan App
+         Online News App
     </description>
-    <author email="wahabjawed@gmail.com" href="http://wahabjawed.silversagesstudio.com">
-        SilverSages Studio
+    <author email="bushraafreen51@yahoo.com.com">
+        
     </author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.4.0" />
